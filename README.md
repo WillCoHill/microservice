@@ -8,4 +8,5 @@
 
 + Server is running in while loop and generates random int from 1 to 8 again after sending data
 
-<sub>optimal for multiple calls</sub> 
+    <sub>optimal for multiple calls</sub>
+![UML Diagram of the socket process](/YouTube Diagram.png)
